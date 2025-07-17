@@ -1,0 +1,13 @@
+alu-4bit-verilog/
+│
+├── alu_4bit.v               # Main ALU Verilog module
+├── tb_alu_4bit.v            # Testbench to simulate ALU
+│
+├── simulation_results.vcd   # Generated after simulation
+│
+├── README.md                # Project overview, instructions, and opcodes
+├── .gitignore               # Files to be ignored by Git (e.g., .vcd, Vivado-generated files)
+├── LICENSE                  # MIT license (or your preferred one)
+│
+└── docs/
+    └── waveform_screenshot.png  # Screenshot of your waveform simulation
